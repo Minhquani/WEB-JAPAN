@@ -1,0 +1,58 @@
+[
+    {
+      "ten": "Văn hóa trà đạo ở Nhật Bản",
+      
+      "text": "Văn hóa trà đạo ở Nhật Bản là một nghi thức truyền thống bao gồm việc chuẩn bị và thưởng thức trà xanh. Nghi thức này được coi là một hình thức nghệ thuật và là một cách để thể hiện sự tôn trọng và lòng hiếu khách. ",
+      "link":"http://127.0.0.1:5000/vanhoa1",
+      "anh": "https://atto.vn/wp-content/uploads/2019/06/tradaonhat2-1.jpg"
+    },
+    {
+      "ten": "Trang phục truyền thống Kimono mang bản sắc riêng của văn hóa Nhật Bản",
+      
+      "text": "Kimono là trang phục truyền thống của Nhật Bản, được làm từ vải lụa. Kimono thường được mặc trong các dịp đặc biệt, chẳng hạn như đám cưới, lễ hội hoặc các dịp lễ tết",
+      "link":"http://127.0.0.1:5000/vanhoa2",
+      "anh": "https://bizweb.dktcdn.net/100/356/785/articles/rsz-honnhannhatdoanhnhansaigon-1517765925-1517765937.jpg?v=1568025475833"
+    },
+    {
+      "ten": " Tinh thần võ sĩ đạo-Samurai",
+      
+      "text": "Samurai là các chiến binh chuyên nghiệp được đào tạo trong võ thuật Nhật Bản. Samurai đóng một vai trò quan trọng trong xã hội Nhật Bản trong nhiều thế kỷ. ",
+      "link":"http://127.0.0.1:5000/vanhoa3",
+      "anh": "https://duhoc.thanhgiang.com.vn/sites/default/files/field/image/bieu-tuong-samurai.jpg"
+    },
+    {
+      "ten": "Lễ hội hoa anh đào-Hanami",
+      
+      "text": "Lễ hội hoa anh đào-Hanami là một lễ hội truyền thống của Nhật Bản diễn ra vào mùa xuân, khi hoa anh đào nở rộ. Lễ hội này là một dịp để mọi người ngắm nhìn vẻ đẹp của hoa anh đào và tận hưởng thời tiết ấm áp của mùa xuân.",
+      "link":"http://127.0.0.1:5000/vanhoa4",
+      "anh": "https://blueskytravel.com.vn/UserFiles/Image/Destination-Tokyo_3_Hanami-1-1468930735.jpg"
+    },
+    {
+      "ten": "Đấu vật SUMO",
+      
+      "text": "Đấu vật sumo là một môn thể thao truyền thống của Nhật Bản, được coi là một môn thể thao quốc gia. Đấu vật sumo là một môn thể thao đối kháng, trong đó hai đô vật sumo sẽ đấu với nhau trên một sàn đấu tròn.",
+      "link":"http://127.0.0.1:5000/vanhoa5",
+      "anh": "https://pystravel.vn/uploads/posts/albums/5442/ad176c7ccc4242e7c0362021c227a85e.jpg"
+    },
+    {
+      "ten": "ANIME, MANGA - Văn hóa đại chúng nổi tiếng của Nhật Bản",
+      
+      "text": "Anime và manga là hai loại hình văn hóa đại chúng nổi tiếng của Nhật Bản. Anime là phim hoạt hình Nhật Bản, trong khi manga là truyện tranh Nhật Bản",
+      "link":"http://127.0.0.1:5000/vanhoa6",
+      "anh": "https://cafefcdn.com/203337114487263232/2022/6/11/photo-1-16549131260422079799622.jpeg"
+    },
+    {
+      "ten": "Tiệc Bonenkai",
+      
+      "text": "Tiệc Bonenkai là một lễ hội truyền thống của Nhật Bản được tổ chức vào cuối năm, để chào đón năm mới. Tiệc Bonenkai thường được tổ chức bởi các công ty, trường học hoặc các nhóm bạn bè. ",
+      "link":"http://127.0.0.1:5000/vanhoa7",
+      "anh": "https://morningjapan.com/wp-content/uploads/2017/10/pexels-photo-587739-1068x712.jpeg"
+    },
+    {
+      "ten": "Cành tre may mắn Fukusasa",
+      
+      "text": "Cành tre may mắn Fukusasa là một vật trang trí truyền thống của Nhật Bản, thường được sử dụng trong các dịp đặc biệt. Cành tre may mắn được làm từ những cành tre nhỏ, được trang trí bằng các dải ruy băng và giấy màu. ",
+      "link":"http://127.0.0.1:5000/vanhoa8",
+      "anh": "https://morningjapan.com/wp-content/uploads/2017/10/canh-tre-may-man-duhocline.jpg"
+    }
+  ]

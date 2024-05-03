@@ -1,0 +1,57 @@
+[
+  {
+    "ten": "RYOKAN – LỮ QUÁN NHẬT BẢN",
+    "anh": "https://anh01.vietnhat.tv/usr/n/h/a/nhatban/h006019_room_L_bl0004.jpg",
+    "link": "http://127.0.0.1:5000/luutru1",
+    "text": "Ryokan - Một kiểu nhà trọ truyền thống tại Nhật"
+  },
+  {
+    
+    "ten": "Shukubo-Nghỉ trọ tại chùa",
+    "anh": "https://res.cloudinary.com/locobee-cdn/image/upload/f_auto/v1657881037/shukuboo-chua-nhat-ban-4_nyvuwq.jpg",
+    "link": "http://127.0.0.1:5000/luutru2",
+    "text": "Hình thức nghỉ trọ ở chùa ở Nhật (宿坊, shukubo) là việc những ngôi chùa Phật giáo"
+  },
+  {
+    
+    "ten": "Capsule Hotel-Khách sạn con nhộng",
+    "anh": "https://cdn.vietnambiz.vn/2020/2/26/kcn-1582688444973524474363.jpg",
+    "link": "http://127.0.0.1:5000/luutru3",
+    "text": "Mặc dù gọi là khách sạn, nhưng nơi đây không hề có những căn phòng khách sạn thông thường. Thay vào đó, bạn sẽ chỉ thấy những buồng ngủ đơn giản hình con nhộng được xếp trên sàn nhà. Bên trong thường có cả TV và radio để khách giải trí. "
+  },
+    {
+      "ten": "Homestay Iori Machiya Stay",
+     "link":"http://127.0.0.1:5000/luutru4",
+      "text": "Homestay Iori là một loại nhà nghỉ gia đình, cung cấp cho khách du lịch cơ hội trải nghiệm cuộc sống của người Nhật Bản. Homestay Iori thường có các phòng nghỉ kiểu Nhật với sàn tatami, đệm futon và các bữa ăn gia đình được nấu theo kiểu truyền thống. ",
+      
+      "anh": "https://pystravel.vn/uploads/posts/albums/5411/aa8fd70c46d9c7ec282029b9806e588d.jpg"
+    },
+    {
+      "ten": "Nhà trọ Minshuku Tsukasa-Ẩm thực của ngư dân",
+     "link":"http://127.0.0.1:5000/luutru5",
+      "text": "Minshuku Tsukasa là một loại nhà nghỉ nhỏ, cung cấp các phòng nghỉ kiểu Nhật với sàn tatami, đệm futon và các bữa ăn gia đình được nấu theo kiểu truyền thống. Minshuku Tsukasa thường có giá cả phải chăng hơn so với các loại nhà nghỉ khác ở Nhật Bản. ",
+      
+      "anh": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280931399.jpg?k=bd47886a11de318a4f1807e94a5b4e36a8eaeb4cbfa45cee220852403db6616c&o=&hp=1"
+    },
+    {
+      "ten": "Khách sạn theo phong cách phương Tây",
+     "link":"http://127.0.0.1:5000/luutru6",
+      "text": "khách sạn phổ biến nhất ở Nhật Bản. Khách sạn theo phong cách phương Tây cung cấp các phòng nghỉ rộng rãi với giường, tủ quần áo, bàn làm việc và các tiện nghi hiện đại như TV, Wi-Fi và điều hòa không khí. ",
+      
+      "anh": "https://www.agoda.com/wp-content/uploads/2019/04/Luxury-hotels-in-Tokyo-Japan-Four-Seasons-Hotel-Tokyo-at-Marunouchi-2019.jpg"
+    },
+    {
+   
+      "ten": "Manga Cafes",
+      "anh": "https://i0.wp.com/thisis-japan.com/wp-content/uploads/2018/03/101453708.jpg?fit=1024%2C768&ssl=1",
+      "link": "http://127.0.0.1:5000/luutru7",
+      "text": "Quán cà phê manga là những cơ sở mà du khách có thể đọc từ một thư viện manga"
+    },
+    {
+      "ten": "Business Hotel",
+     "link":"http://127.0.0.1:5000/luutru8",
+      "text": " khách sạn phổ biến ở Nhật Bản, thường được tìm thấy ở các khu vực trung tâm thành phố. Khách sạn kinh doanh cung cấp các phòng nghỉ rộng rãi với giường, tủ quần áo, bàn làm việc và các tiện nghi hiện đại như TV, Wi-Fi và điều hòa không khí.",
+      
+      "anh": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349418501.jpg?k=9467f2e38c7eca1381a6622c68177d6943b20b5813813aed2e5cd9c851425ce1&o=&hp=1"
+    }
+  ]

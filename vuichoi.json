@@ -1,0 +1,58 @@
+[
+    {
+      "ten": "Tokyo Summerland",
+      
+      "text": "Tokyo Summerland là một công viên giải trí nằm ở thành phố Tokyo, Nhật Bản. Công viên được khai trương vào năm 1964 và là một trong những công viên giải trí lâu đời nhất ở Nhật Bản. ",
+      "link":"http://127.0.0.1:5000/vuichoi1",
+      "anh": "https://a1.cdn.japantravel.com/photo/69121-231928/1440x960!/tokyo-tokyo-summerland-231928.jpg"
+    },
+    {
+      "ten": "Công viên Tokyo Dome City",
+      
+      "text": "Công viên Tokyo Dome City là một công viên giải trí nằm ở thành phố Tokyo, Nhật Bản. Công viên được khai trương vào năm 1988 và là một trong những công viên giải trí lớn nhất ở Nhật Bản.",
+      "link":"http://127.0.0.1:5000/vuichoi2",
+      "anh": "https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_20334/20181023163002_SVuGA/jpg"
+    },
+    {
+      "ten": "Yokohama Cosmo World",
+      
+      "text": "Yokohama Cosmo World là một công viên giải trí nằm ở thành phố Yokohama, Nhật Bản.",
+      "link":"http://127.0.0.1:5000/vuichoi3",
+      "anh": "http://nepalijapanese.com/wp-content/uploads/2022/01/spot_main_images01_M.jpg"
+    },
+    {
+      "ten": "Universal Studios",
+      
+      "text": "Universal Studios Japan là một công viên giải trí dựa trên các bộ phim và chương trình truyền hình của Universal Studios",
+      "link":"http://127.0.0.1:5000/vuichoi4",
+      "anh": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/33/49/48/super-nintendo-world.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "ten": "Tokyo Disneyland",
+      
+      "text": "Tokyo Disneyland là một công viên giải trí dựa trên các bộ phim và chương trình truyền hình của Disney. Công viên nằm ở thành phố Tokyo, Nhật Bản và được khai trương vào năm 1983.",
+      "link":"http://127.0.0.1:5000/vuichoi5",
+      "anh": "https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1645708829/chiba/H_00336_001"
+    },
+    {
+      "ten": "Công viên Yumiuri Land",
+      
+      "text": "Công viên Yumiuri Land là một công viên giải trí nằm ở thành phố Tokyo, Nhật Bản. Công viên được khai trương vào năm 1964 và là một trong những công viên giải trí lâu đời nhất ở Nhật Bản.",
+      "link":"http://127.0.0.1:5000/vuichoi6",
+      "anh": "https://asset.japan.travel/image/upload/v1644985602/tokyo/Tokyo1625_main.jpg"
+    },
+    {
+      "ten": "Công viên Hanayashiki",
+      
+      "text": "Công viên Hanayashiki là một công viên giải trí nằm ở thành phố Tokyo, Nhật Bản. Công viên được khai trương vào năm 1853 và là một trong những công viên giải trí lâu đời nhất ở Nhật Bản. ",
+      "link":"http://127.0.0.1:5000/vuichoi7",
+      "anh": "https://kyluc.vn/Userfiles/Upload/images/104z13.jpg"
+    },
+    {
+      "ten": "Công viên Shiroi Koibito",
+      "link":"http://127.0.0.1:5000/vuichoi8",
+      "text": "Công viên Shiroi Koibito là một công viên giải trí nằm ở thành phố Hokkaido, Nhật Bản. Công viên được khai trương vào năm 2014 và là một công viên giải trí dựa trên thương hiệu bánh quy Shiroi Koibito.",
+     
+      "anh": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a4/bb/60/caption.jpg?w=1200&h=-1&s=1"
+    }
+  ]

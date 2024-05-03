@@ -1,0 +1,88 @@
+[
+    {
+      "ten": "Thần Xã Itsukushima",
+      "anh": "https://toplist.vn/images/800px/than-xa-itsukushima-426429.jpg",
+      "link": "http://127.0.0.1:5000/thangcanh1",
+      "text": "Thần xã Itsukushima là một ngôi đền Shinto nằm trên đảo Miyajima thuộc tỉnh Hiroshima, Nhật Bản."
+    },
+    {
+      "ten": "Núi Phú Sĩ",
+      "anh": "https://ik.imagekit.io/tvlk/blog/2018/03/top-10-dia-diem-nhat-dinh-phai-check-in-o-Nhat-Ban-1.jpg",
+      "link": "http://127.0.0.1:5000/thangcanh2",
+      "text": "Du lịch núi Phú Sĩ, khám phá niềm tự hào của người Nhật Bản."
+    },
+    {
+      "ten": "Sông Meguro",
+      "anh": "https://www.chudu24.com/wp-content/uploads/2017/03/canh-dep-nhat-ban-13.jpg",
+      "link": "http://127.0.0.1:5000/thangcanh4",
+      "text": "Địa điểm ngắm hoa anh đào đẹp nhất Tokyo – Sông Meguro"
+    },
+
+
+    {
+      "ten": "RYOKAN – LỮ QUÁN NHẬT BẢN",
+      "anh": "https://anh01.vietnhat.tv/usr/n/h/a/nhatban/h006019_room_L_bl0004.jpg",
+      "link": "http://127.0.0.1:5000/luutru1",
+      "text": "Ryokan - Một kiểu nhà trọ truyền thống tại Nhật"
+    },
+    {
+      
+      "ten": "Shukubo-Nghỉ trọ tại chùa",
+      "anh": "https://res.cloudinary.com/locobee-cdn/image/upload/f_auto/v1657881037/shukuboo-chua-nhat-ban-4_nyvuwq.jpg",
+      "link": "http://127.0.0.1:5000/luutru2",
+      "text": "Hình thức nghỉ trọ ở chùa ở Nhật (宿坊, shukubo) là việc những ngôi chùa Phật giáo"
+    },
+    {
+     
+      "ten": "Manga Cafes",
+      "anh": "https://i0.wp.com/thisis-japan.com/wp-content/uploads/2018/03/101453708.jpg?fit=1024%2C768&ssl=1",
+      "link": "http://127.0.0.1:5000/luutru7",
+      "text": "Quán cà phê manga là những cơ sở mà du khách có thể đọc từ một thư viện manga"
+    },
+
+
+    {
+     "ten": "Ginza-Tokyo Travel",
+      "anh": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/08/ginza-seiko-building-taxis-AP-1024x600.jpg",
+      "link": "http://127.0.0.1:5000/muasam1",
+      "text": "Du lịch Ginza - Khu mua sắm xa xỉ nhất thành phố Tokyo"
+    },
+    {
+      
+      "ten": "Akihabara",
+      "anh": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg",
+      "link": "http://127.0.0.1:5000/muasam2",
+      "text": "Khu phố Akihabara - Địa điểm tham quan không thể bỏ lỡ ở Nhật Bản" 
+    },
+    {
+     
+      "ten": "Shibuya",
+      "anh": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/03/ec/07/79/shibuya-center-town.jpg",
+      "link": "http://127.0.0.1:5000/",
+      "text": "Shibuya - Địa Điểm Không Bao Giờ Tắt Đèn Ở Tokyo"
+    },
+
+
+    {
+      
+     "ten": "Tokyo Summerland",
+      "anh": "https://a1.cdn.japantravel.com/photo/69121-231928/1440x960!/tokyo-tokyo-summerland-231928.jpg",
+      "link": "http://127.0.0.1:5000/vuichoi1",
+      "text": "Tokyo Summerland công viên nước số 1 Nhật Bản"
+    },
+    {
+      
+      "ten": "Yokohama Cosmo World",
+      "anh": "https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_20334/20181023163002_SVuGA/jpg",
+      "link": "http://127.0.0.1:5000/vuichoi2",
+      "text": "Tokyo Dome City - thiên đường vui chơi giải trí đẳng cấp quốc tế tọa lạc ở trung tâm Tokyo."
+    },
+    {
+     
+      "ten": "Tokyo Dome City",
+      "anh": "http://nepalijapanese.com/wp-content/uploads/2022/01/spot_main_images01_M.jpg",
+      "link": "http://127.0.0.1:5000/vuichoi3",
+      "text": "Nổi bật với bánh xe đu quay mặt đồng hồ khổng lồ hiện đã trở thành biểu tượng của đường chân trời Yokohama"
+    }
+
+  ]

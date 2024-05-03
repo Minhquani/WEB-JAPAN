@@ -1,0 +1,53 @@
+[
+  {
+    "ten": "Thần Xã Itsukushima",
+    "anh": "https://toplist.vn/images/800px/than-xa-itsukushima-426429.jpg",
+    "link": "http://127.0.0.1:5000/thangcanh1",
+    "text": "Thần xã Itsukushima là một ngôi đền Shinto nằm trên đảo Miyajima thuộc tỉnh Hiroshima, Nhật Bản."
+  },
+  {
+    "ten": "Núi Phú Sĩ",
+    "anh": "https://ik.imagekit.io/tvlk/blog/2018/03/top-10-dia-diem-nhat-dinh-phai-check-in-o-Nhat-Ban-1.jpg",
+    "link": "http://127.0.0.1:5000/thangcanh2",
+    "text": "Du lịch núi Phú Sĩ, khám phá niềm tự hào của người Nhật Bản."
+  },
+  {
+    "ten": "Sông Meguro",
+    "anh": "https://www.chudu24.com/wp-content/uploads/2017/03/canh-dep-nhat-ban-13.jpg",
+    "link": "http://127.0.0.1:5000/thangcanh4",
+    "text": "Địa điểm ngắm hoa anh đào đẹp nhất Tokyo – Sông Meguro"
+  },
+    {
+      "ten": "Kumano Nachi Taisha",
+      "text": "Ngôi đền Kumano Nachi Taisha và ngọn thác Nachi",
+      "link":"http://127.0.0.1:5000/thangcanh3",
+      "anh": "https://isenpai.jp/wp-content/uploads/2022/05/pagode-und-wasserfall-in-japan-5127f527-bfe3-490b-8438-777922a14cfd.jpg"
+    },
+    {
+      "ten": "Lâu đài cổ Himeji",
+      "text": "Lâu đài được mệnh danh là (Lâu đài chim trắng) vì được xây dựng bằng đá trắng và có mái ngói màu trắng. Lâu đài được UNESCO công nhận là Di sản Thế giới.",
+      "link":"http://127.0.0.1:5000/thangcanh5",
+      "anh": "https://bazantravel.com/cdn/medias/uploads/27/27926-lau-dai-himeji-nhat-ban.jpeg"
+    },
+    {
+      "ten": "Đom đóm phát sáng (Bioluminescent) ",
+      
+      "text": "Bioluminescent là hiện tượng một số sinh vật tự phát sáng. ",
+      "link":"http://127.0.0.1:5000/thangcanh6",
+      "anh": "https://www.chudu24.com/wp-content/uploads/2017/03/canh-dep-nhat-ban-27.jpg"
+    },
+    {
+      "ten": " Đảo Yakushima(Ốc cửu đảo)",
+      "link":"http://127.0.0.1:5000/thangcanh7",
+      "text": "Yakushima hòn đảo được biết đến với rừng nguyên sinh cypress cổ thụ, được UNESCO công nhận là Di sản Thế giới. ",
+      
+      "anh": "https://hochieuvisa.vn/wp-content/uploads/2020/03/dao-Yakushima.jpg"
+    },
+    {
+      "ten": "Chùa Daigo-ji ",
+      "link":"http://127.0.0.1:5000/thangcanh8",
+      "text": "Chùa Daigo-ji là một ngôi chùa Phật giáo nằm ở thành phố Kyōto, Nhật Bản.  ",
+      
+      "anh": "https://www.chudu24.com/wp-content/uploads/2017/03/nhat24.jpg"
+    }
+  ]

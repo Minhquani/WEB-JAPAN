@@ -1,0 +1,58 @@
+[
+    {
+      "ten": "Sushi",
+      
+      "text": "Sushi là một món ăn truyền thống của Nhật Bản, được làm từ cơm trộn giấm, kết hợp với các loại hải sản, rau củ và trứng.",
+      "link":"http://127.0.0.1:5000/amthuc1",
+      "anh": "https://photo-cms-tpo.epicdn.me/w890/Uploaded/2023/rkznae/2019_11_14/goc_canh_bao_an_nhieu_sushi_de_bi_nhiem_khuan_0a0e6807_GDEF.jpg"
+    },
+    {
+      "ten": "Tempura(天ぷら)",
+      
+      "text": "Tempura là một món ăn Nhật Bản được làm từ hải sản, rau củ hoặc thịt tẩm bột và chiên giòn.",
+      "link":"http://127.0.0.1:5000/amthuc2",
+      "anh": "https://daynauan.info.vn/wp-content/uploads/2016/01/tempura.jpg"
+    },
+    {
+      "ten": "Mì Ramen",
+      
+      "text": "Mì Ramen là một món mì Nhật Bản được làm từ mì trứng, nước dùng, thịt và các loại topping khác nhau.",
+      "link":"http://127.0.0.1:5000/amthuc3",
+      "anh": "https://cdn.tgdd.vn/2021/03/CookProduct/1200-1200x676-49.jpg"
+    },
+    {
+      "ten": "Cơm lươn nhật Unagi Don",
+      
+      "text": "Unagi Don là một món cơm Nhật Bản được làm từ cơm trắng, lươn nướng và các loại topping khác nhau.",
+      "link":"http://127.0.0.1:5000/amthuc4",
+      "anh": "https://images.foody.vn/res/g115/1140531/prof/s640x400/foody-upload-api-foody-mobile-z3-20db8348-220616122158.jpeg"
+    },
+    {
+      "ten": "Cơm nắm Nhật Bản (Onigiri)",
+      
+      "text": "Cơm nắm Nhật Bản là một món ăn truyền thống của Nhật Bản, được làm từ cơm trắng, kết hợp với các loại nguyên liệu khác nhau như cá, thịt, rau củ, v.v.",
+      "link":"http://127.0.0.1:5000/amthuc5",
+      "anh": "https://cdn.tgdd.vn/Files/2019/11/29/1223398/2-cach-lam-com-nam-nhat-ban-onigiri-don-gian-de-lam-nhat--760x367.jpg"
+    },
+    {
+      "ten": "Mơ muối Umeboshi",
+      
+      "text": "Mơ muối Umeboshi là một loại quả mơ muối của Nhật Bản. Mơ muối Umeboshi có vị chua, mặn và có mùi thơm đặc trưng.",
+      "link":"http://127.0.0.1:5000/amthuc6",
+      "anh": "https://d20aeo683mqd6t.cloudfront.net/articles/title_images/000/041/043/medium/umeboshi.png?2021"
+    },
+    {
+      "ten": "Súp Miso",
+      
+      "text": "Súp Miso là một món súp Nhật Bản được làm từ nước dùng dashi, miso và các loại topping khác nhau như đậu phụ, hải sản, rau củ, v.v.",
+      "link":"http://127.0.0.1:5000/amthuc7",
+      "anh": "https://cdn.tgdd.vn/Files/2019/10/07/1206037/cach-lam-mon-canh-miso-chuan-nhat-don-gian-chi-voi-3-buoc-16.jpg"
+    },
+    {
+      "ten": "Mì Soba",
+      
+      "text": "Mì Soba là một loại mì Nhật Bản được làm từ bột kiều mạch. Mì Soba có màu nâu nhạt và có vị thơm đặc trưng.",
+      "link":"http://127.0.0.1:5000/amthuc8",
+      "anh": "https://danhnamtravel.vn/Uploads/images/nhatban2023/mi0soba.jpeg"
+    }
+  ]

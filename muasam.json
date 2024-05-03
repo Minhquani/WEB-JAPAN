@@ -1,0 +1,58 @@
+[
+    {
+      "ten": "Ginza-Tokyo Travel: Khu mua sắm cao cấp, sang trọng ở Tokyo",
+      
+      "text": "Roppongi, Tokyo là một khu phố sôi động và náo nhiệt ở trung tâm thành phố. Đây là nơi có nhiều quán bar, câu lạc bộ đêm, nhà hàng và các địa điểm giải trí khác. ",
+      "link":"http://127.0.0.1:5000/muasam1",
+      "anh": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/08/ginza-seiko-building-taxis-AP-1024x600.jpg"
+    },
+    {
+      "ten": "Akihabara - Khu phố điện tử nổi tiếng nhất Nhật Bản",
+      
+      "text": "Akihabara là một khu phố ở Tokyo, Nhật Bản, được biết đến là trung tâm của văn hóa otaku Nhật Bản. Khu phố này được mệnh danh là thiên đường của người hâm mộ otaku bởi sự đa dạng và phong phú của các cửa hàng văn hóa pop Nhật Bản.",
+      "link":"http://127.0.0.1:5000/muasam2",
+      "anh": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x683.jpg"
+    },
+    {
+      "ten": "Osu (大須)",
+      
+      "text": "Osu là một khu phố mua sắm và ăn uống sôi động ở Nagoya, Nhật Bản. Khu phố này được biết đến với các cửa hàng giá cả phải chăng, các món ăn địa phương ngon và bầu không khí sôi động.", 
+      "link":"http://127.0.0.1:5000/muasam3",
+      "anh": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E5%A4%A7%E9%A0%88%E8%A6%B3%E9%9F%B3_Osu-Temple_-_panoramio.jpg/2560px-%E5%A4%A7%E9%A0%88%E8%A6%B3%E9%9F%B3_Osu-Temple_-_panoramio.jpg"
+    },
+    {
+      "ten": "Nakano Broadway(中野ブロードウェイ)",
+      
+      "text": "Nakano Broadway là một khu phức hợp mua sắm và giải trí ở Nakano, Tokyo, Nhật Bản. Khu phức hợp này được biết đến với các cửa hàng manga, anime, trò chơi điện tử và các sản phẩm liên quan đến văn hóa otaku. ",
+      "link":"http://127.0.0.1:5000/muasam4",
+      "anh": "https://www.japan-guide.com/g18/3069_01.jpg"
+    },
+    {
+      "ten": "Shibuya - Địa điểm không bao giờ tắt đèn ở Tokyo",
+      
+      "text": "Shibuya là một quận ở Tokyo, Nhật Bản, được biết đến với sự sôi động và nhộn nhịp. Quận này là nơi có nhiều cửa hàng, nhà hàng, quán bar và các địa điểm giải trí. ",
+      "link":"http://127.0.0.1:5000/muasam5",
+      "anh": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/03/ec/07/79/shibuya-center-town.jpg"
+    },
+    {
+      "ten": "Khu mua sắm Asakusa",
+      
+      "text": "Shinjuku là một quận ở Tokyo, Nhật Bản, được biết đến là một trong những khu vực nhộn nhịp và sôi động nhất thế giới. Quận này là nơi có nhiều cửa hàng, nhà hàng, quán bar và các địa điểm giải trí. ",
+      "link":"http://127.0.0.1:5000/muasam6",
+      "anh": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/02/Asakusa-2.jpg"
+    },
+    {
+      "ten": "Khu phố mua sắm Shinjuku nổi tiếng",
+      
+      "text": "Shinjuku là một quận ở Tokyo, Nhật Bản, được biết đến là một trong những khu vực nhộn nhịp và sôi động nhất thế giới. Quận này là nơi có nhiều cửa hàng, nhà hàng, quán bar và các địa điểm giải trí. ",
+      "link":"http://127.0.0.1:5000/muasam7",
+      "anh": "https://www.gotokyo.org/en/story/guide/shinjuku-shop/images/shopping_guide.jpg"
+    },
+    {
+      "ten": "Roppongi – Tokyo",
+      
+      "text": "Roppongi, Tokyo là một khu phố sôi động và náo nhiệt ở trung tâm thành phố. Đây là nơi có nhiều quán bar, câu lạc bộ đêm, nhà hàng và các địa điểm giải trí khác. ",
+      "link":"http://127.0.0.1:5000/muasam8",
+      "anh": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/04/roppongi-man_gdl.jpg"
+    }
+  ]
